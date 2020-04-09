@@ -1,0 +1,11 @@
+.home {
+	background-image: url("hazard.jpg");
+	background-atachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+	min-height: 700px;
+	position: relative;
+	overflow: hidden;
+	
+}
